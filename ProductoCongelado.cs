@@ -4,8 +4,9 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    class ProductoCongelado:Producto
+    class ProductoCongelado : Producto
     {
+#holamimi
         protected double TempRecomendado{ get; set; }
     }
 }

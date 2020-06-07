@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mich FsGz\\source\\repos\\CasoEstudio1\\CasoEstudio1.csproj": {}
+    "C:\\c#\\desarrolloMovil\\CasoEstudio1\\CasoEstudio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mich FsGz\\source\\repos\\CasoEstudio1\\CasoEstudio1.csproj": {
+    "C:\\c#\\desarrolloMovil\\CasoEstudio1\\CasoEstudio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mich FsGz\\source\\repos\\CasoEstudio1\\CasoEstudio1.csproj",
+        "projectUniqueName": "C:\\c#\\desarrolloMovil\\CasoEstudio1\\CasoEstudio1.csproj",
         "projectName": "CasoEstudio1",
-        "projectPath": "C:\\Users\\Mich FsGz\\source\\repos\\CasoEstudio1\\CasoEstudio1.csproj",
-        "packagesPath": "C:\\Users\\Mich FsGz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mich FsGz\\source\\repos\\CasoEstudio1\\obj\\",
+        "projectPath": "C:\\c#\\desarrolloMovil\\CasoEstudio1\\CasoEstudio1.csproj",
+        "packagesPath": "C:\\Users\\che_n\\.nuget\\packages\\",
+        "outputPath": "C:\\c#\\desarrolloMovil\\CasoEstudio1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mich FsGz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\che_n\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
